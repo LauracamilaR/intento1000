@@ -1,0 +1,82 @@
+body{
+    background-color: #236FD1;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.registro{
+    width: 400px;
+    background:  #F6F6F4;
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 4px;
+    font-family: 'Merriweather', serif;
+    color: black;
+    margin-top: 120px;
+}
+.registro h1{
+    font-size: 22px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.control{
+    width: 85%;
+    float: none;
+    margin-left: 2px;
+    margin-left: 20px;
+    background: #FBFCFC;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid black;
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+    border: 0;
+}
+i{
+    color: #236FD1;
+    margin-bottom: ;
+}
+.bottons{
+    width: 40%;
+    background: #236FD1;
+    border: none;
+    padding: 5px;
+    color: white;
+    margin: 16px 90px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 50px;
+}
+.cuentasgsss{
+    margin: 0px 0 0px;
+    font-size: 15px;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+.cuentasgsss label input{
+    margin: 3px;
+}
+.cuentasgsss label a{
+    color: #236FD1;
+    text-decoration: none;
+    transition: .3s;
+    font-size: .9em;
+}
+.cuentasgsss label a:hover{
+    text-decoration: underline;
+}
+h2{
+    font-size: 10px;
+    color: black;
+    margin-left: 5px;
+    text-align: justify;
+    text-justify: inter-word;
+}
+img{
+    font-size: 2px;
+}
